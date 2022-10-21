@@ -1,0 +1,333 @@
+﻿<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6E19A3E7-5554-4B9E-A124-6A3B035FA210}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>QUANLYKS</RootNamespace>
+    <AssemblyName>QUANLYKS</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.BonusSkins.v20.1" />
+    <Reference Include="DevExpress.Data.v20.1" />
+    <Reference Include="DevExpress.Data.Desktop.v20.1" />
+    <Reference Include="DevExpress.Utils.v20.1" />
+    <Reference Include="DevExpress.Sparkline.v20.1.Core" />
+    <Reference Include="DevExpress.XtraBars.v20.1, Version=20.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraEditors.v20.1" />
+    <Reference Include="DevExpress.Printing.v20.1.Core" />
+    <Reference Include="DevExpress.XtraGrid.v20.1, Version=20.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraLayout.v20.1, Version=20.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraPrinting.v20.1, Version=20.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraScheduler.v20.1, Version=20.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v20.1.Core, Version=20.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="Guna.UI2, Version=2.0.3.2, Culture=neutral, PublicKeyToken=4015e4865bda28a4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Guna.UI2.WinForms.2.0.3.2\lib\net40\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DAO\AcountDAO.cs" />
+    <Compile Include="DAO\BangDKDAO.cs" />
+    <Compile Include="DAO\DataProvider.cs" />
+    <Compile Include="DAO\DatphongDAO.cs" />
+    <Compile Include="DAO\DichVuDAO.cs" />
+    <Compile Include="DAO\DichVuPhongDAO.cs" />
+    <Compile Include="DAO\KhachhangDAO.cs" />
+    <Compile Include="DAO\NhanvienDAO.cs" />
+    <Compile Include="DAO\PhongDAO.cs" />
+    <Compile Include="DAO\TraphongDAO.cs" />
+    <Compile Include="DTO\Datphong.cs" />
+    <Compile Include="DTO\DichVu.cs" />
+    <Compile Include="DTO\DichVuphong.cs" />
+    <Compile Include="DTO\Khachhang.cs" />
+    <Compile Include="DTO\Nhanvien.cs" />
+    <Compile Include="DTO\Phong.cs" />
+    <Compile Include="DTO\Traphong.cs" />
+    <Compile Include="DTO\User.cs" />
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNhanPhong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNhanPhong.Designer.cs">
+      <DependentUpon>frmNhanPhong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmThongtinPhong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmThongtinPhong.Designer.cs">
+      <DependentUpon>frmThongtinPhong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Usercontrol\UserControlBDK.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Usercontrol\UserControlBDK.Designer.cs">
+      <DependentUpon>UserControlBDK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usercontrol\UserControlCaidat.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Usercontrol\UserControlCaidat.Designer.cs">
+      <DependentUpon>UserControlCaidat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usercontrol\UserControlDatphong.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Usercontrol\UserControlDatphong.Designer.cs">
+      <DependentUpon>UserControlDatphong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usercontrol\UserControlHoadon.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Usercontrol\UserControlHoadon.Designer.cs">
+      <DependentUpon>UserControlHoadon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usercontrol\UserControlKhachHang.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Usercontrol\UserControlKhachHang.Designer.cs">
+      <DependentUpon>UserControlKhachHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usercontrol\UserControlNhanvien.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Usercontrol\UserControlNhanvien.Designer.cs">
+      <DependentUpon>UserControlNhanvien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usercontrol\UserControlPhong.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Usercontrol\UserControlPhong.Designer.cs">
+      <DependentUpon>UserControlPhong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usercontrol\UserControlDSPhong.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Usercontrol\UserControlDSPhong.Designer.cs">
+      <DependentUpon>UserControlDSPhong.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNhanPhong.resx">
+      <DependentUpon>frmNhanPhong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmThongtinPhong.resx">
+      <DependentUpon>frmThongtinPhong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Usercontrol\UserControlBDK.resx">
+      <DependentUpon>UserControlBDK.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usercontrol\UserControlCaidat.resx">
+      <DependentUpon>UserControlCaidat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usercontrol\UserControlDatphong.resx">
+      <DependentUpon>UserControlDatphong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usercontrol\UserControlHoadon.resx">
+      <DependentUpon>UserControlHoadon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usercontrol\UserControlKhachHang.resx">
+      <DependentUpon>UserControlKhachHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usercontrol\UserControlNhanvien.resx">
+      <DependentUpon>UserControlNhanvien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usercontrol\UserControlPhong.resx">
+      <DependentUpon>UserControlPhong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usercontrol\UserControlDSPhong.resx">
+      <DependentUpon>UserControlDSPhong.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimize.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eye.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close_eye.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hotelBG1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backroud.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1123.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hotel-building-vector-381902.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5s.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5s1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\like5s.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5sright.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\24843497.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\userlogin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\452-4524641_jessica-jung-home-icon-white-background-clipart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PikPng.com_logo-instagram-blanco-png_4574987.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dashboard-2-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-bed-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ticket-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\settings-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\room.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sofa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\living-room-icon-18-ffffff-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\conference-call-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\administrator-128.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bed-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\invoice-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\manager-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dv.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dv1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dv2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dv3.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

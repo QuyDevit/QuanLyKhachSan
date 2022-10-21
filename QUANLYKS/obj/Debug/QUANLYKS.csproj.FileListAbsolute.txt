@@ -1,0 +1,1216 @@
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\QUANLYKS.exe.config
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\QUANLYKS.exe
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\QUANLYKS.pdb
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\DevExpress.Data.v19.2.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\DevExpress.Utils.v19.2.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\DevExpress.Data.v19.2.xml
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Properties.Resources.resources
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\obj\Debug\QUANLYKS.csproj.GenerateResource.cache
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\obj\Debug\QUANLYKS.csproj.CoreCompileInputs.cache
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\obj\Debug\QUANLYKS.csproj.CopyComplete
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\obj\Debug\QUANLYKS.exe
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\obj\Debug\QUANLYKS.pdb
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\obj\Debug\QUANLYKS.exe.licenses
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\obj\Debug\QUANLYKS.frmMain.resources
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\obj\Debug\QUANLYKS.frmLogin.resources
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlBDK.resources
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlCaidat.resources
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlPhong.resources
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlDSPhong.resources
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\Guna.UI2.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\obj\Debug\QUANLYKS.frmThongtinPhong.resources
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlKhachHang.resources
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlNhanvien.resources
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraBars.v19.2.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraScheduler.v19.2.Core.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraScheduler.v19.2.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\DevExpress.Images.v19.2.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\DevExpress.Office.v19.2.Core.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraBars.v19.2.xml
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraScheduler.v19.2.xml
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraScheduler.v19.2.Core.xml
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\DevExpress.Office.v19.2.Core.xml
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraScheduler.v19.2.resources.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraScheduler.v19.2.resources.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraScheduler.v19.2.resources.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraScheduler.v19.2.resources.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlDatphong.resources
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlHoadon.resources
+D:\project c# 2019\QLKH_SQL\QLKH\QUANLYKS\obj\Debug\QUANLYKS.csproj.AssemblyReference.cache
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\QUANLYKS.exe.config
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\QUANLYKS.exe
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\QUANLYKS.pdb
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraScheduler.v20.1.Core.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraScheduler.v20.1.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\Guna.UI2.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Images.v20.1.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Office.v20.1.Core.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraScheduler.v20.1.xml
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraScheduler.v20.1.Core.xml
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Office.v20.1.Core.xml
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraScheduler.v20.1.resources.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraScheduler.v20.1.resources.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraScheduler.v20.1.resources.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraScheduler.v20.1.resources.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.frmLogin.resources
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.frmMain.resources
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.frmThongtinPhong.resources
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Properties.Resources.resources
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlBDK.resources
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlCaidat.resources
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlDatphong.resources
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlHoadon.resources
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlKhachHang.resources
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlNhanvien.resources
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlPhong.resources
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlDSPhong.resources
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.csproj.GenerateResource.cache
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.exe.licenses
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.csproj.CoreCompileInputs.cache
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.csproj.CopyComplete
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.exe
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.pdb
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.frmNhanPhong.resources
+C:\Users\DD\Desktop\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.csproj.AssemblyReference.cache
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\QUANLYKS.exe.config
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\QUANLYKS.exe
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\QUANLYKS.pdb
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.BonusSkins.v21.2.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Utils.v21.2.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraBars.v21.2.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraGrid.v21.2.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraPrinting.v21.2.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraScheduler.v21.2.Core.Desktop.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraScheduler.v21.2.Core.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraScheduler.v21.2.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\Guna.UI2.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Images.v21.2.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Office.v21.2.Core.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraBars.v21.2.xml
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraGrid.v21.2.xml
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraPrinting.v21.2.xml
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraScheduler.v21.2.xml
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraScheduler.v21.2.Core.Desktop.xml
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraScheduler.v21.2.Core.xml
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Office.v21.2.Core.xml
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraScheduler.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraScheduler.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraScheduler.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraScheduler.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.csproj.AssemblyReference.cache
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.frmLogin.resources
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.frmMain.resources
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.frmNhanPhong.resources
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.frmThongtinPhong.resources
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Properties.Resources.resources
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlBDK.resources
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlCaidat.resources
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlDatphong.resources
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlHoadon.resources
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlKhachHang.resources
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlNhanvien.resources
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlPhong.resources
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlDSPhong.resources
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.csproj.GenerateResource.cache
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.exe.licenses
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.csproj.CoreCompileInputs.cache
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.csproj.CopyComplete
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.exe
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.pdb
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\QUANLYKS.exe.config
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\QUANLYKS.exe
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\QUANLYKS.pdb
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.BonusSkins.v21.2.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Utils.v21.2.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraBars.v21.2.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraGrid.v21.2.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraPrinting.v21.2.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraScheduler.v21.2.Core.Desktop.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraScheduler.v21.2.Core.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraScheduler.v21.2.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\Guna.UI2.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Images.v21.2.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Office.v21.2.Core.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraBars.v21.2.xml
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraGrid.v21.2.xml
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraPrinting.v21.2.xml
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraScheduler.v21.2.xml
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraScheduler.v21.2.Core.Desktop.xml
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraScheduler.v21.2.Core.xml
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Office.v21.2.Core.xml
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraScheduler.v21.2.resources.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraScheduler.v21.2.resources.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraScheduler.v21.2.resources.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraScheduler.v21.2.resources.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.csproj.AssemblyReference.cache
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.frmLogin.resources
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.frmMain.resources
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.frmNhanPhong.resources
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.frmThongtinPhong.resources
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Properties.Resources.resources
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlBDK.resources
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlCaidat.resources
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlDatphong.resources
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlHoadon.resources
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlKhachHang.resources
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlNhanvien.resources
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlPhong.resources
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlDSPhong.resources
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.csproj.GenerateResource.cache
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.exe.licenses
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.csproj.CoreCompileInputs.cache
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.csproj.CopyComplete
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.exe
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.pdb
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\QUANLYKS.exe.config
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\QUANLYKS.exe
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\QUANLYKS.pdb
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.BonusSkins.v21.2.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Utils.v21.2.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraBars.v21.2.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraGrid.v21.2.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraPrinting.v21.2.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraScheduler.v21.2.Core.Desktop.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraScheduler.v21.2.Core.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraScheduler.v21.2.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\Guna.UI2.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Images.v21.2.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Office.v21.2.Core.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraBars.v21.2.xml
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraGrid.v21.2.xml
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraPrinting.v21.2.xml
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraScheduler.v21.2.xml
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraScheduler.v21.2.Core.Desktop.xml
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraScheduler.v21.2.Core.xml
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Office.v21.2.Core.xml
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraScheduler.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraScheduler.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraScheduler.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraScheduler.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.csproj.AssemblyReference.cache
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.frmLogin.resources
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.frmMain.resources
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.frmNhanPhong.resources
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.frmThongtinPhong.resources
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Properties.Resources.resources
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlBDK.resources
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlCaidat.resources
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlDatphong.resources
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlHoadon.resources
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlKhachHang.resources
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlNhanvien.resources
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlPhong.resources
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlDSPhong.resources
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.csproj.GenerateResource.cache
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.exe.licenses
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.csproj.CoreCompileInputs.cache
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.csproj.CopyComplete
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.exe
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.pdb
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlDV.resources
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.frmDichVu.resources
+C:\Users\84814\OneDrive - gamedownload\Máy tính\QLSK\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.frmPhong.resources
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.frmDichVu.resources
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.frmPhong.resources
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlDV.resources
+C:\Users\DD\Desktop\QLKH\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlTB.resources
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\QUANLYKS.exe.config
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\QUANLYKS.exe
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\QUANLYKS.pdb
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.BonusSkins.v21.2.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Data.v21.2.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Utils.v21.2.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraBars.v21.2.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraGrid.v21.2.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraPrinting.v21.2.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraScheduler.v21.2.Core.Desktop.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraScheduler.v21.2.Core.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraScheduler.v21.2.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\Guna.UI2.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Images.v21.2.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Office.v21.2.Core.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Data.v21.2.xml
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Utils.v21.2.xml
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraBars.v21.2.xml
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraGrid.v21.2.xml
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraPrinting.v21.2.xml
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraScheduler.v21.2.xml
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraScheduler.v21.2.Core.Desktop.xml
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraScheduler.v21.2.Core.xml
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Office.v21.2.Core.xml
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraGrid.v21.2.resources.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraGrid.v21.2.resources.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraGrid.v21.2.resources.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraGrid.v21.2.resources.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraScheduler.v21.2.resources.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraScheduler.v21.2.resources.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraScheduler.v21.2.resources.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraScheduler.v21.2.resources.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+D:\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+D:\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.csproj.AssemblyReference.cache
+D:\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.frmDichVu.resources
+D:\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.frmLogin.resources
+D:\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.frmMain.resources
+D:\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.frmNhanPhong.resources
+D:\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.frmPhong.resources
+D:\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.frmThietbi.resources
+D:\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.frmThongtinPhong.resources
+D:\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Properties.Resources.resources
+D:\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlBDK.resources
+D:\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlCaidat.resources
+D:\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlDatphong.resources
+D:\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlDV.resources
+D:\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlHoadon.resources
+D:\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlKhachHang.resources
+D:\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlNhanvien.resources
+D:\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlPhong.resources
+D:\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlDSPhong.resources
+D:\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlTB.resources
+D:\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.csproj.GenerateResource.cache
+D:\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.exe.licenses
+D:\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.csproj.CoreCompileInputs.cache
+D:\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.csproj.CopyComplete
+D:\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.exe
+D:\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.pdb
+D:\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.frmLoadPM.resources
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\QUANLYKS.exe.config
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\QUANLYKS.exe
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\QUANLYKS.pdb
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.BonusSkins.v21.2.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Data.v21.2.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Utils.v21.2.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraBars.v21.2.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraGrid.v21.2.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraPrinting.v21.2.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraScheduler.v21.2.Core.Desktop.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraScheduler.v21.2.Core.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraScheduler.v21.2.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\Guna.UI2.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Images.v21.2.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Office.v21.2.Core.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Data.v21.2.xml
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Utils.v21.2.xml
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraBars.v21.2.xml
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraGrid.v21.2.xml
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraPrinting.v21.2.xml
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraScheduler.v21.2.xml
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraScheduler.v21.2.Core.Desktop.xml
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraScheduler.v21.2.Core.xml
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Office.v21.2.Core.xml
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraGrid.v21.2.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraGrid.v21.2.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraGrid.v21.2.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraGrid.v21.2.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraScheduler.v21.2.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraScheduler.v21.2.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraScheduler.v21.2.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraScheduler.v21.2.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.frmDichVu.resources
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.frmLoadPM.resources
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.frmLogin.resources
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.frmMain.resources
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.frmNhanPhong.resources
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.frmPhong.resources
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.frmThietbi.resources
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.frmThongtinPhong.resources
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Properties.Resources.resources
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlBDK.resources
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlCaidat.resources
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlDatphong.resources
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlDV.resources
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlHoadon.resources
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlKhachHang.resources
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlNhanvien.resources
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlPhong.resources
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlDSPhong.resources
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlTB.resources
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.csproj.GenerateResource.cache
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.exe.licenses
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.csproj.CoreCompileInputs.cache
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.csproj.CopyComplete
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.exe
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.pdb
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Charts.v21.2.Core.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.PivotGrid.v21.2.Core.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.RichEdit.v21.2.Export.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Utils.v21.2.UI.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraCharts.v21.2.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraGauges.v21.2.Core.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraReports.v21.2.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraReports.v21.2.Extensions.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraRichEdit.v21.2.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.DataAccess.v21.2.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.DataVisualization.v21.2.Core.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Xpo.v21.2.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.CodeParser.v21.2.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.DataAccess.v21.2.UI.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraNavBar.v21.2.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraCharts.v21.2.Wizard.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraPivotGrid.v21.2.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraCharts.v21.2.Extensions.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraDiagram.v21.2.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Diagram.v21.2.Core.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Charts.v21.2.Core.xml
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.PivotGrid.v21.2.Core.xml
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Utils.v21.2.UI.xml
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraCharts.v21.2.xml
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraGauges.v21.2.Core.xml
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraReports.v21.2.xml
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraReports.v21.2.Extensions.xml
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraRichEdit.v21.2.xml
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.xml
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.DataAccess.v21.2.xml
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Xpo.v21.2.xml
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.DataAccess.v21.2.UI.xml
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraNavBar.v21.2.xml
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraCharts.v21.2.Wizard.xml
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraPivotGrid.v21.2.xml
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraDiagram.v21.2.xml
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Diagram.v21.2.Core.xml
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.PivotGrid.v21.2.Core.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.PivotGrid.v21.2.Core.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.PivotGrid.v21.2.Core.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.PivotGrid.v21.2.Core.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.Utils.v21.2.UI.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.Utils.v21.2.UI.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.Utils.v21.2.UI.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.Utils.v21.2.UI.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraCharts.v21.2.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraCharts.v21.2.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraCharts.v21.2.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraCharts.v21.2.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraGauges.v21.2.Core.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraGauges.v21.2.Core.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraGauges.v21.2.Core.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraGauges.v21.2.Core.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraReports.v21.2.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraReports.v21.2.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraReports.v21.2.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraReports.v21.2.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraRichEdit.v21.2.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraRichEdit.v21.2.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraRichEdit.v21.2.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraRichEdit.v21.2.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.DataAccess.v21.2.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.DataAccess.v21.2.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.DataAccess.v21.2.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.DataAccess.v21.2.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.Xpo.v21.2.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.Xpo.v21.2.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.Xpo.v21.2.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.Xpo.v21.2.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.DataAccess.v21.2.UI.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.DataAccess.v21.2.UI.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.DataAccess.v21.2.UI.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.DataAccess.v21.2.UI.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraNavBar.v21.2.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraNavBar.v21.2.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraNavBar.v21.2.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraNavBar.v21.2.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraPivotGrid.v21.2.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraPivotGrid.v21.2.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraPivotGrid.v21.2.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraPivotGrid.v21.2.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.Diagram.v21.2.Core.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.Diagram.v21.2.Core.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.Diagram.v21.2.Core.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.Diagram.v21.2.Core.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlBaocao.resources
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.rptBaocao.resources
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.rptnHD.resources
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\QUANLYKS.exe.config
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\QUANLYKS.exe
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\QUANLYKS.pdb
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.BonusSkins.v21.2.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Charts.v21.2.Core.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.CodeParser.v21.2.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.DataAccess.v21.2.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Office.v21.2.Core.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.PivotGrid.v21.2.Core.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.RichEdit.v21.2.Export.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Utils.v21.2.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Utils.v21.2.UI.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Xpo.v21.2.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraBars.v21.2.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraCharts.v21.2.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraGauges.v21.2.Core.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraGrid.v21.2.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraPrinting.v21.2.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraReports.v21.2.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraReports.v21.2.Extensions.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraScheduler.v21.2.Core.Desktop.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraScheduler.v21.2.Core.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraScheduler.v21.2.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\Guna.UI2.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraRichEdit.v21.2.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.DataVisualization.v21.2.Core.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.DataAccess.v21.2.UI.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraNavBar.v21.2.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraCharts.v21.2.Wizard.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraPivotGrid.v21.2.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraCharts.v21.2.Extensions.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Images.v21.2.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraDiagram.v21.2.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Diagram.v21.2.Core.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Charts.v21.2.Core.xml
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.DataAccess.v21.2.xml
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Office.v21.2.Core.xml
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.PivotGrid.v21.2.Core.xml
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Utils.v21.2.UI.xml
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Xpo.v21.2.xml
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraBars.v21.2.xml
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraCharts.v21.2.xml
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraGauges.v21.2.Core.xml
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraGrid.v21.2.xml
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraPrinting.v21.2.xml
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraReports.v21.2.xml
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraReports.v21.2.Extensions.xml
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraScheduler.v21.2.xml
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraScheduler.v21.2.Core.Desktop.xml
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraScheduler.v21.2.Core.xml
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraRichEdit.v21.2.xml
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.xml
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.DataAccess.v21.2.UI.xml
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraNavBar.v21.2.xml
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraCharts.v21.2.Wizard.xml
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraPivotGrid.v21.2.xml
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraDiagram.v21.2.xml
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.Diagram.v21.2.Core.xml
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.DataAccess.v21.2.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.DataAccess.v21.2.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.DataAccess.v21.2.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.DataAccess.v21.2.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.PivotGrid.v21.2.Core.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.PivotGrid.v21.2.Core.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.PivotGrid.v21.2.Core.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.PivotGrid.v21.2.Core.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.Xpo.v21.2.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.Xpo.v21.2.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.Xpo.v21.2.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.Xpo.v21.2.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraReports.v21.2.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraReports.v21.2.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraReports.v21.2.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraReports.v21.2.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraScheduler.v21.2.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraScheduler.v21.2.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraScheduler.v21.2.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraScheduler.v21.2.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.DataAccess.v21.2.UI.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.DataAccess.v21.2.UI.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.DataAccess.v21.2.UI.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.DataAccess.v21.2.UI.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.XtraPivotGrid.v21.2.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.XtraPivotGrid.v21.2.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.XtraPivotGrid.v21.2.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.XtraPivotGrid.v21.2.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\de\DevExpress.Diagram.v21.2.Core.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\es\DevExpress.Diagram.v21.2.Core.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\ja\DevExpress.Diagram.v21.2.Core.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\ru\DevExpress.Diagram.v21.2.Core.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.frmDichVu.resources
+C:\Project\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.frmLoadPM.resources
+C:\Project\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.frmLogin.resources
+C:\Project\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.frmMain.resources
+C:\Project\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.frmNhanPhong.resources
+C:\Project\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.frmPhong.resources
+C:\Project\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.frmThietbi.resources
+C:\Project\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.frmThongtinPhong.resources
+C:\Project\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Properties.Resources.resources
+C:\Project\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.rptnHD.resources
+C:\Project\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlBaocao.resources
+C:\Project\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlBDK.resources
+C:\Project\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlCaidat.resources
+C:\Project\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlDatphong.resources
+C:\Project\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlDV.resources
+C:\Project\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlHoadon.resources
+C:\Project\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlKhachHang.resources
+C:\Project\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlNhanvien.resources
+C:\Project\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlPhong.resources
+C:\Project\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlDSPhong.resources
+C:\Project\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlTB.resources
+C:\Project\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.rptBaocao.resources
+C:\Project\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.csproj.GenerateResource.cache
+C:\Project\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.exe.licenses
+C:\Project\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.csproj.CoreCompileInputs.cache
+C:\Project\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.csproj.CopyComplete
+C:\Project\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.exe
+C:\Project\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.pdb
+C:\Project\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.csproj.AssemblyReference.cache
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\vi-VN\QUANLYKS.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlBaocao.vi-VN.resources
+C:\Project\QLSK\QLKH\QUANLYKS\obj\Debug\vi-VN\QUANLYKS.resources.dll
+C:\Project\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.rpTheoloaiphong.resources
+C:\Project\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.rptTheoDV.resources
+C:\Project\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.rpTheoloaikh.resources
+C:\Project\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.rpTheophong.resources
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraCharts.v21.2.UI.dll
+C:\Project\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraCharts.v21.2.UI.xml
+C:\Project\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlThongke.resources
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\vi-VN\QUANLYKS.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraCharts.v21.2.UI.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\bin\Debug\DevExpress.XtraCharts.v21.2.UI.xml
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.rpTheoloaikh.resources
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.rpTheoloaiphong.resources
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.rpTheophong.resources
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.rptTheoDV.resources
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlThongke.resources
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.Usercontrol.UserControlBaocao.vi-VN.resources
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\obj\Debug\vi-VN\QUANLYKS.resources.dll
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.frmThongtinHD.resources
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.frmthongtinDP.resources
+D:\Do an LTWD\QLSK\QLKH\QUANLYKS\obj\Debug\QUANLYKS.csproj.AssemblyReference.cache
